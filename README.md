@@ -43,10 +43,9 @@ It focuses on **automatically generating diagnostic reports from chest X-ray ima
 - GPT-2  
 - Scikit-learn / Pandas / NLTK  
 
----
+<img width="1670" height="756" alt="page1" src="https://github.com/user-attachments/assets/d28c8857-2e5b-48e4-b891-64864fe5cfad" />
+<img width="1210" height="876" alt="ll" src="https://github.com/user-attachments/assets/b8aa73ee-b63a-4066-9a70-5121062dc4ee" />
 
-## ⚙️ Usage  
 
-### 1️⃣ Installation  
-```bash
-pip install torch torchvision transformers datasets nltk
+https://github.com/user-attachments/assets/c48e7430-dcde-4618-9647-c83e00b0dd2d
+
